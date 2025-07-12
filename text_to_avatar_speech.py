@@ -54,8 +54,24 @@ if "messages" not in st.session_state:
 
 # Talking photo options
 talking_photo_options = {
-    "59b20959799248df80df1cb43de50c4b": {"display_name": "Professional Girl"}
-    # Add more talking photos as needed with their IDs
+    "d29ec865893443cb955b59075739db4d": {"display_name": "Eric"},
+    "8347186cc9384a0a97ac194524fcc907": {"display_name": "于林臣"},
+    "b582e62171694c949c7c3afc66685723": {"display_name": "冉牧泽"},
+    "493a7b96f3964ac5904eea183f0dabe9": {"display_name": "刘小河"},
+    "23fb4768add443f99b804f898be9fd44": {"display_name": "张驰之"},
+    "d2697c13f66e4401a12293d52c751554": {"display_name": "苏木子"},
+    "134096eeaaf54dd3891f4d490c000545": {"display_name": "王郁甄"},
+    "2bd6da8785bd456c8d33837d3a639f70": {"display_name": "刘奕好"},
+    "55ccabd216c84e5080e5941071533bc4": {"display_name": "刘泫熙"},
+    "62221c9e9f084bc3b770b89097fcb8a5": {"display_name": "刘畅"},
+    "cc417088f836488c97a9e1c44a1fd719": {"display_name": "刘轩铭"},
+    "5b9a038f5bae4f6e8d51d058fe7aa4c1": {"display_name": "崔家瑜"},
+    "d18ce50684ea46db813228d6e9c25ef7": {"display_name": "徐少辰"},
+    "d269297004b9447b8deb764bbbf2a7db": {"display_name": "李墨涵"},
+    "c0ae2bf400fd4291953675e69def9dbf": {"display_name": "杨子阅"},
+    "e9495eb9b0f041c6b6aceb6e143ab9c1": {"display_name": "王子路"},
+    "883c15dfb62242548464d9d6a81b4db5": {"display_name": "詹圣娇"},
+    "ac3249b26be34735a0e336d7b833aaed": {"display_name": "黄俊杰"},
 }
 
 # Voice selection controls in sidebar
